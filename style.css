@@ -3,5 +3,8 @@ background-image: url("img/background.jpg");
 }
 #claim_button{
    
-    margin-top: 9cm;
+    margin-top: 5cm;
+}
+#Notice{
+    margin-top: 3cm;
 }
